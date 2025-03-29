@@ -19,59 +19,59 @@ if (fs.existsSync('.env')) require('dotenv').config({ path: __dirname+'/.env' })
 
 //--------------------[ SESSION ID ]----------------------//
 
-global.SESSION_ID = process.env.SESSION_ID || '' 
+global.SESSION_ID = process.env.SESSION_ID || '22Zl2SQC#-eYT_Ot5KxNfpVMhau9iA7vWYRTXOP9NvwMzPMaaiyk' 
 // You know the drill. Put your CypherX session id here. Should look like: XPLOADER-BOT:~ (don't forget that, it's crucial!)
 
 //--------------------[ BOT NAME ]----------------------//
 
-global.botname = process.env.BOT_NAME || 'CypherX' 
+global.botname = process.env.BOT_NAME || 'B_kenz_cypherX' 
 // Pick a name for the bot. Default is "CypherX" — but who doesn’t love a cool bot name?
 
 //-----------------[ OWNER NUMBER ]------------------//
 
-global.ownernumber = process.env.OWNER_NUMBER || '254754783972' 
+global.ownernumber = process.env.OWNER_NUMBER || '2347076656544' 
 // Your personal contact number. If you want to call Tylor, this is the number. 👀
 
 //-----------------[ OWNER NAME ]------------------//
 
-global.ownername = process.env.OWNER_NAME || 'Tylor' 
+global.ownername = process.env.OWNER_NAME || 'B_kenz' 
 // Set your name, currently it's the mastermind's. The one and only... Tylor. (Don't ask how I got here, it's a mystery.)
 
 //------------[ STICKER PACKNAME ]-----------------//
 
-global.packname = process.env.STICKER_PACK_NAME || "Cypher" 
+global.packname = process.env.STICKER_PACK_NAME || "B_kenz_Cypher" 
 // Time to decide the name for your sticker pack. This will appear every time you create a sticker. "Cypher" is the default because... well, why not?
 
 //--------------[ STICKER AUTHOR NAME ]------------//
 
-global.author = process.env.STICKER_AUTHOR_NAME || "X" 
+global.author = process.env.STICKER_AUTHOR_NAME || "B_kenz_" 
 // Who's the artist behind those epic stickers? You, of course! Unless you're just using the default name "X" – mystery vibes!
 
 //----------------------[ TIMEZONE ]--------------------//
 
-global.timezones = process.env.TIMEZONE || "Africa/Nairobi" 
+global.timezones = process.env.TIMEZONE || "NIGERIA/BENIN" 
 // The bot is time-traveling. Set the timezone correctly. Trust us, you don't want the bot to get confused. 🕒
 
 //--------------[ POSTGRES DATABASE ]----------------//
 
-global.postgresqls = process.env.DATABASE_URL || "";
+global.postgresqls = process.env.DATABASE_URL || "tiktok.com/@hes_bkenz";
 // Your database URL. If you're using panel, no need to fill, if you're using Heroku, this will be automatically filled. Let the magic happen!
 
 //-----------------[ CONTEXT LINK ]--------------------//
 
-global.plink = process.env.PLINK || "https://www.instagram.com/heyits_tylor?igsh=YzljYTk1ODg3Zg---"
+global.plink = process.env.PLINK || "tiktok.com/@hes_bkenz"
 // Where does the journey end? Maybe an Instagram link? Or WhatsApp link🤔 Or maybe just a placeholder. Who knows? 👀
 
 //------------------[ WATERMARK ]--------------------//
 
-global.wm = process.env.GL_WM || "©CypherX is on fire!🔥"
+global.wm = process.env.GL_WM || "B_kenz_CypherX is on fire!🔥"
 // Add a watermark finished tasks because... every masterpiece needs a signature.
 
 //---------------------[ REPLIES ]-----------------------//
 global.mess = { 
-  done: '✅ *Mission Accomplished!* All systems go, CypherX finished the task!',
-  success: '🎉 *BOOM! Success!* CypherX is too cool for this world. We did it!',
-  owner: '🚫 *Hold up!* This command is for the big boss only. You’re not the boss of me!',
+  done: '✅ *Mission Accomplished!* All systems go, B_kenz_CypherX finished the task!',
+  success: '🎉 *BOOM! Success!* B_kenz_CypherX is too cool for this world. We did it!',
+  owner: '🚫 *Hold up!* This command is for the big boss "B_KENZ" only. You’re not the boss of me!',
   group: '👥 *Join the club!* This feature is exclusive to group chats!',
   admin: '🔒 *Admin powers required!* Make me an admin, and I’ll unlock this magic for you.',
   notadmin: '⚠️ *Not Quite There Yet!* You gotta be the admin to wield this feature. Better start begging!',
