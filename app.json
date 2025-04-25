@@ -17,22 +17,22 @@
   "env": {
     "SESSION_ID": {
       "description": "Enter your CypherX session id here; must start with XPLOADER-BOT:~ (Yes, it's like a secret agent code. Don’t mess it up!)",
-      "value": "",
+      "value": "CYPHER-X:~UEsDBBQAAAgIANGMmVpUqj5dEgUAAO0IAAAKAAAAY3JlZHMuanNvbpVVa7OiuBb9L*mqPfJGrDpVw0OR4wMVUeTW*RAgIIIBQ0Cxy*8+hfaZ07d6putcPqVCsvbae6+98h3gIq3QDLVg9B2UJG0gRd2StiUCI6DVcYwI6IMIUghGgLMP0UCQDO*aoMvAYUhklVvucD5FTjq9zwrpaoX8rndWWOENPPqgrIM8DX8DOLy0lhJgzhRyb+xg*57ZdwaiYH7KSqn0apqsh4fZu40nhzfw6BBhSlKcjMsjOiMC8xlqVzAlX6M*s61Fsg9ZxGpN7TfFeal618FtLy9gNuyROXMft3DMOQN38TX6woXcA*uAevedWlh6cijIYZcPpclRuYU9sRlcmUQqmba5j1*0qzTBKLIihGlK2y*XvWfRahqxGT9tZrnP+svJyZ+4qi1mwXZ41iBaBm5qKqHtZV8jrl*KNNfNXqAR5p0Qzj0qK0OId7P3MnGPZ2u2v2s3N7y75v8QX5EPrWT*T90X4yNzP3J6T8lZlksHHpZPm+ElUFn+hJSyWdnL20JMvOpsfY1+tVc1cjCCqWdWdk+0YqzxlJm4oownYVwPZhk7mZcZ0zPdT*qQ1uR3LDczdIlld33dLlLDNRYnJDr63FDk66XxHT6yJ9OlWs81Ei1mBeEdPeAxZrfjQWSsCz9boWnrVx4yjrdka*NHjTBnTl2*PTPKUGtFYMQ++oCgJK0ogTQt8HOPkfsARo2DQoLos7xAHawLxaQe3WkXzlls9oN8z6gxHJ*0Jbu1NlN9GmHBjwzXegN9UJIiRFWFomla0YK0C1RVMEEVGP3n2akuaYLOBUXvadSNMS*IjCxJoiQKwp*VH9cjpBUsyz8woqAPYlKcFwiMKKlRHzxvCDwvyrw2nEiaLIoGzykiJ4nGWFUlg1eUYZfj+RV1m55RReG5BCNWFkSJ4WRWePy3DzC60ZeAurR5tg*ilFTUxXWZFzD6UNfHTxiGRY2p0+JQ7xaIgBHzuY0oTXFSdanVGJLwmDZI7*IAoxjmFXr0QYSaNEQdHvCKuHDnreLAeu8f9Ga51P1W7Up3LPDryJAPgqEcC9+QHKFvAhK5bwEnhN+gFCDEi4rIBxzoyvGa3e7Ov0oJEXmSY7FXNFdlcjF7voOTjbIWwmj4lMNLA4ig6KPKAQyzutwWGcK*wcU6JhLvyz3lhlTf4VVk8t7ylNqW8BPuS1tg9P3TL*Ui6vD2xuow3yh70HWri*OrHEYy+6si8uc5lhOYoSwJIi8MZa472O0**u5JBxghCtO86ixmdbZu*tAYW7MNGaqmqRaJqidd0T96+DGUL9HPq5lynetajNmMK1PtngmBaWY29eXD2myCWblsi9xwiuv17R9AwAgQ7XSz*brcUG8Hl7NLSu*2XEv2nLU5YO920wQx3fRWqi7sm5UkTe4tTmxPi3fSaVxsrF3mMVNlmczF8bjcHdn5IEwFXX3ror209HMw+m7vzAOMkGMbDC3V8r68TKSyWBr2*r7KbzqN*NVaNaJpVJ7HdYHdKfGpEbXMmWOiehdD+74nTOl66tDkg3qtmYqqvuziaVf5j2ci*THIL+XFKXq6LoZdB7*Qu88pYB79n0B+GPm*KE1zZL0J9WviiYq*vBySULTN27E0yB5xY41w7WUbXt7XzGWxAI9uvMsc0rggZzACEEekSCPQB6SouzG1cFz87jVSXcv44ZQ5rKj6Ofr*4CaM8Dq1IkU5hdWxq8KKPRzjTtWtWpYOhfTDSYDafRPSgsdfUEsBAhQDFAAACAgA0YyZWlSqPl0SBQAA7QgAAAoAAAAAAAAAAAAAAICBAAAAAGNyZWRzLmpzb25QSwUGAAAAAAEAAQA4AAAAOgUAAAAA",
       "required": false
     },
     "BOT_NAME": {
       "description": "Enter your bot name here (CypherX is cool, but feel free to name it something quirky!)",
-      "value": "CypherX",
+      "value": "ʙᴋᴇɴᴢ=ʙᴏᴛ=X",
       "required": false
     },
     "OWNER_NUMBER": {
       "description": "Enter your number here, starting with country code (e.g., 2547xxxxxxxx, because even bots need to know how to reach you!)",
-      "value": "",
+      "value": "2347076656544",
       "required": true
     },
     "OWNER_NAME": {
       "description": "Enter your name here (Who’s the boss behind the scenes? Spoiler: It's you!)",
-      "value": "",
+      "value": "ᴄᴏᴍᴘʟx⚠︎⚠︎",
       "required": true
     },
    "HEROKU_API_KEY": {
